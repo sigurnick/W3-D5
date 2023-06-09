@@ -1,7 +1,6 @@
 /*
 REGOLE
 - Tutte le risposte devono essere scritte in JavaScript
-- Se sei in difficoltà puoi chiedere aiuto a un Teaching Assistant
 - Puoi usare Google / StackOverflow ma solo quanto ritieni di aver bisogno di qualcosa che non è stato spiegato a lezione
 - Puoi testare il tuo codice in un file separato, o de-commentando un esercizio alla volta
 - Per farlo puoi utilizzare il terminale Bash, quello di VSCode o quello del tuo sistema operativo (se utilizzi macOS o Linux)
@@ -413,10 +412,10 @@ const movies = [
 console.log("-------Esercizio 11-------");
 
 const objPerson = {
-  name: "Luca",
-  surname: "Non so che inventarmi",
+  name: "Nathan",
+  surname: "Drake",
   age: 34,
-  work: "developer",
+  work: "adventurer",
 };
 
 const deleteProp = function (obj, string) {
@@ -675,7 +674,7 @@ halfTree(5);
     *
    ***
   *****
-  
+
 */
 console.log("-------Esercizio 28-------");
 
